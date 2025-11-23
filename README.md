@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sakthi Gobika</h1>
+<h3 align="center">👋 Hi, I'm Sakthi Gobika</h3>
 
 <h3 align="center">🤖 Machine Learning  🧠 Deep Learning  📈 Data Science Enthusiast</h3>
 
