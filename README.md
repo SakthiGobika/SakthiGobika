@@ -75,6 +75,12 @@ Passionate about building intelligent applications that solve impactful problems
 </a>
 
 </p>
+<p>
+  <a href="https://github.com/SakthiGobika/Customer-Churn-Prediction">
+    <img src="https://img.shields.io/badge/Customer_Churn_Prediction-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
+
 
 
 
