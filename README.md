@@ -6,23 +6,30 @@
 
 ## 👩‍💻 About Me
 
-🎓 Final-year AI & Data Science student  
-📊 Aspiring Data Analyst skilled in data preprocessing, visualization, and insights  
-🤖 Experience building machine learning, deep learning, and vision-based applications  
-🌱 Currently learning NLP, Transformers, and model deployment  
-💼 Actively seeking internships in AI/ML and Data Analyst roles
+🎓 **Final-year AI & Data Science student**
+
+📊 **Aspiring Data Analyst skilled in data preprocessing, visualization, and insights** 
+
+🤖 **Experience building machine learning, deep learning, and vision-based applications**
+
+🌱 **Currently learning NLP, Transformers, and model deployment**  
+
+💼 **Actively seeking internships in AI/ML and Data Analyst roles**
 
 
 ## 💎 What Sets Me Apart
 
-✔ Insight-driven, not just code-driven  
-✔ Strong data foundations with applied AI experience  
-✔ Focused on impact, accuracy, and clarity  
-✔ Learner with a real-world problem-solving mindset
+✔ **Insight-driven, not just code-driven**
+
+✔ **Strong data foundations with applied AI experience** 
+
+✔ **Focused on impact, accuracy, and clarity**
+
+✔ **Learner with a real-world problem-solving mindset**
 
 ## 🚀 Connect With Me
 
-Let’s connect — I’m open to internships and collaboration.
+**Let’s connect — I’m open to internships and collaboration.**
 
 <p align="left">
 <a href="mailto:sakthigobika4780@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -36,9 +43,9 @@ Let’s connect — I’m open to internships and collaboration.
 
 ## 💼 Professional Summary
 
-AI & Data Science student with hands-on experience in machine learning, deep learning, computer vision, and data analytics.  
+**AI & Data Science student with hands-on experience in machine learning, deep learning, computer vision, and data analytics.  
 Skilled in data preprocessing, feature engineering, visualization, and building end-to-end AI solutions.  
-Passionate about leveraging data and AI to solve real-world problems and support data-driven decision-making.
+Passionate about leveraging data and AI to solve real-world problems and support data-driven decision-making.**
 
 ## 🚀 Featured Projects
 
@@ -46,49 +53,49 @@ Passionate about leveraging data and AI to solve real-world problems and support
   <a href="https://github.com/SakthiGobika/Gesture-recognition">
     <img src="https://img.shields.io/badge/Gesture_Based_Smart_Home-6A5ACD?style=for-the-badge&logo=flutter&logoColor=white" />
   </a><br/>
-  **Vision-based system enabling touchless control of smart home devices using hand gestures.**
+  <b>Vision-based system enabling touchless control of smart home devices using hand gestures.
 </p>
 
 <p>
   <a href="https://github.com/SakthiGobika/Animal-Intrusion-Detection-Sytem-with-Alert-Mechanism">
     <img src="https://img.shields.io/badge/Animal_Intrusion_Detection-FF8C00?style=for-the-badge&logo=python&logoColor=white" />
   </a><br/>
-  **Real-time computer vision system to detect animal intrusions and trigger automated alerts.**
+  Real-time computer vision system to detect animal intrusions and trigger automated alerts.
 </p>
 
 <p>
   <a href="https://github.com/SakthiGobika/waste-classification">
     <img src="https://img.shields.io/badge/Waste_Classification-228B22?style=for-the-badge&logo=recycling&logoColor=white" />
   </a><br/>
-  **Image classification model to identify waste types and support efficient waste segregation.**
+  Image classification model to identify waste types and support efficient waste segregation.
 </p>
 
 <p>
   <a href="https://github.com/SakthiGobika/Text-summarization-Question-Answering">
     <img src="https://img.shields.io/badge/Text_Summarization_&_QA-DC143C?style=for-the-badge&logo=ai&logoColor=white" />
   </a><br/>
-  **NLP-based system to generate concise summaries and answer questions from textual data.**
+  NLP-based system to generate concise summaries and answer questions from textual data.
 </p>
 
 <p>
   <a href="https://github.com/SakthiGobika/Fake-News-Detection">
     <img src="https://img.shields.io/badge/Fake_News_Detection-8A2BE2?style=for-the-badge&logo=news&logoColor=white" />
   </a><br/>
-  **Machine learning model to identify misinformation and improve content reliability.**
+  Machine learning model to identify misinformation and improve content reliability.
 </p>
 
 <p>
   <a href="https://github.com/SakthiGobika/Face-mask-detection">
     <img src="https://img.shields.io/badge/Face_Mask_Detection-FF1493?style=for-the-badge&logo=mask&logoColor=white" />
   </a><br/>
-  **Computer vision solution to detect face mask usage for public safety monitoring.**
+  Computer vision solution to detect face mask usage for public safety monitoring.
 </p>
 
 <p>
   <a href="https://github.com/SakthiGobika/Customer-Churn-Prediction-System">
     <img src="https://img.shields.io/badge/Customer_Churn_Prediction-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
   </a><br/>
-  **Predictive analytics model to identify at-risk customers and support retention strategies.**
+  Predictive analytics model to identify at-risk customers and support retention strategies.
 </p>
 
 ## 💼 Experience
@@ -98,14 +105,14 @@ Passionate about leveraging data and AI to solve real-world problems and support
     <img src="https://img.shields.io/badge/Python_Developer_Intern_(Codsoft)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
-<p>**Developed Python applications, improved problem-solving, and created data visualizations.**</p>
+<p>Developed Python applications, improved problem-solving, and created data visualizations.</p>
 
 <p>
   <a href="https://github.com/SakthiGobika/Certificates/blob/main/interncertificate.pdf">
     <img src="https://img.shields.io/badge/AR/VR_Intern_(Pep_Softwares)-FF8C00?style=for-the-badge&logo=blender&logoColor=white" />
   </a>
 </p>
-<p>**Designed 3D models in Blender and explored AR/VR tools.**</p>
+<p>Designed 3D models in Blender and explored AR/VR tools.</p>
 
 
 
