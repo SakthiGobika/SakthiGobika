@@ -168,7 +168,13 @@ Passionate about leveraging data and AI to solve real-world problems and support
 
 </p>
 
+### Web Development & AI Integration
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-5E17EB?style=for-the-badge&logo=spacex&logoColor=white" />
 
+
+</p>
 
 ## 📄 Credentials
 - **Generative AI & Prompt Engineering – AWS**
