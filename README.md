@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 **Final-year AI & Data Science student**
+🎓 **AI & Data Science student**
 
 📊 **Aspiring Data Analyst skilled in data preprocessing, visualization, and insights** 
 
