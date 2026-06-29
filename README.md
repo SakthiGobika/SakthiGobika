@@ -188,5 +188,5 @@ Passionate about leveraging data and AI to solve real-world problems and support
 - **Advanced SQL for analytics**  
 - **Power BI & dashboarding**  
 - **Deploying ML models with  FastAPI**
-- **Creating agents**
+- **Creating RAG agents**
 
