@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi, I'm Sakthi Gobika</h3>
 
-<h3 align="center">🤖 Machine Learning  🧠 Deep Learning  📈 Data Science Enthusiast</h3>
+<h3 align="center">🤖 Machine Learning  🧠 Deep Learning  📈 Data Science Enthusiast  💻 Backend Developer</h3> 
 
 <p align="center"><b> Turning data and AI models into real-world, impactful solutions</b></p>
 
@@ -14,7 +14,7 @@
 
 🌱 **Currently learning NLP, Transformers, and model deployment**  
 
-💼 **Actively seeking internships in AI/ML and Data Analyst roles**
+💼 **Actively seeking internships or full time opp in AI/ML and Software Development roles**
 
 
 ## 💎 What Sets Me Apart
@@ -170,7 +170,7 @@ Passionate about leveraging data and AI to solve real-world problems and support
 
 ### Web Development & AI Integration
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity-5E17EB?style=for-the-badge&logo=spacex&logoColor=white" />
 
 
@@ -182,6 +182,10 @@ Passionate about leveraging data and AI to solve real-world problems and support
 - **Soft Computing - NPTEL**
 - **Hack The Mountains 5.0-Marwadi University**
 - **Python Developer-Codsoft**
+
+### 🧠 AI Techniques
+- **Retrieval-Augmented Generation (RAG)**
+- **Fine-tuning & Transfer Learning**
 
 ## 📍 Current Focus
 
